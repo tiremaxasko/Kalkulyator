@@ -1,0 +1,2 @@
+# Kalkulyator
+Uzum kalkulyatori
